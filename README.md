@@ -9,7 +9,7 @@
 
 
 ## ③DEMO
-(https://yellow31.sakura.ne.jp/php1/post.php)
+(https://yellow31.sakura.ne.jp/php1_forms/post.php)
 
 
 ## ⑤工夫した点・こだわった点
